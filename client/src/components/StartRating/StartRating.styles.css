@@ -1,0 +1,10 @@
+.start-rating-container {
+  display: flex;
+}
+.star {
+  font-size: 40px;
+  margin-right: 5px;
+}
+.star.active {
+  color: yellow;
+}
